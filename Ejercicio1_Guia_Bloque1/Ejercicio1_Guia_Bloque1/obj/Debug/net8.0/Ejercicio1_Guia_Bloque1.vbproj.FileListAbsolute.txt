@@ -1,0 +1,15 @@
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\bin\Debug\net8.0\Ejercicio1_Guia_Bloque1.exe
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\bin\Debug\net8.0\Ejercicio1_Guia_Bloque1.deps.json
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\bin\Debug\net8.0\Ejercicio1_Guia_Bloque1.runtimeconfig.json
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\bin\Debug\net8.0\Ejercicio1_Guia_Bloque1.dll
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\bin\Debug\net8.0\Ejercicio1_Guia_Bloque1.pdb
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.AssemblyInfoInputs.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.AssemblyInfo.vb
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.vbproj.CoreCompileInputs.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.sourcelink.json
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.dll
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\refint\Ejercicio1_Guia_Bloque1.dll
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.pdb
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\Ejercicio1_Guia_Bloque1.genruntimeconfig.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio1_Guia_Bloque1\Ejercicio1_Guia_Bloque1\obj\Debug\net8.0\ref\Ejercicio1_Guia_Bloque1.dll
