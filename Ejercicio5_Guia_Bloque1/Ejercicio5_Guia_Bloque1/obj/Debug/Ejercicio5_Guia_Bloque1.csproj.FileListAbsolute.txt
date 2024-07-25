@@ -1,0 +1,7 @@
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\bin\Debug\Ejercicio5_Guia_Bloque1.exe.config
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\bin\Debug\Ejercicio5_Guia_Bloque1.exe
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\bin\Debug\Ejercicio5_Guia_Bloque1.pdb
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\obj\Debug\Ejercicio5_Guia_Bloque1.csproj.AssemblyReference.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\obj\Debug\Ejercicio5_Guia_Bloque1.csproj.CoreCompileInputs.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\obj\Debug\Ejercicio5_Guia_Bloque1.exe
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Ejercicio5_Guia_Bloque1\Ejercicio5_Guia_Bloque1\obj\Debug\Ejercicio5_Guia_Bloque1.pdb
