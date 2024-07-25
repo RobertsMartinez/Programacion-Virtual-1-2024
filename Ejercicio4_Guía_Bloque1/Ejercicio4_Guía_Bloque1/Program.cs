@@ -10,24 +10,32 @@ namespace Ejercicio4_Guía_Bloque1
     {
         static void Main(string[] args)
         {
-            Console.Write("Ingrese un número para verificar si es primo: ");
-            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese un numero");
+            int numero = int.Parse(Console.ReadLine());
+            int divisor = 1, contador = 0;
 
-            {
-                if (number <= 1)
+            while (divisor <= numero)
+           {
+                if (numero % divisor == 0)
+
                 {
-                    Console.WriteLine("El numero no es primo porque los números menores o iguales a 1 no son primos");
+                    contador++;
                 }
-
-               else (
-                        {
-                    Console.WriteLine("El numero que ingresó es primo");*/
-                
-
-
-                
-               
+                divisor++;
+           }
+            if (contador == 2)
+            {
+                Console.WriteLine("El numero es primo");
             }
+            else
+            {
+                Console.WriteLine("El numero no es primo");
+            }
+            Console.ReadKey();
+
+
+
+
         }
     }
 }
