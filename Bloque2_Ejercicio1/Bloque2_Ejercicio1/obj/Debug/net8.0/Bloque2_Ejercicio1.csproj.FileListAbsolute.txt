@@ -1,0 +1,15 @@
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\bin\Debug\net8.0\Bloque2_Ejercicio1.exe
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\bin\Debug\net8.0\Bloque2_Ejercicio1.deps.json
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\bin\Debug\net8.0\Bloque2_Ejercicio1.runtimeconfig.json
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\bin\Debug\net8.0\Bloque2_Ejercicio1.dll
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\bin\Debug\net8.0\Bloque2_Ejercicio1.pdb
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.AssemblyInfo.cs
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.sourcelink.json
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.dll
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\refint\Bloque2_Ejercicio1.dll
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.pdb
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\Bloque2_Ejercicio1.genruntimeconfig.cache
+C:\Users\Robert Martínez\source\repos\Programacion-Virtual-1-2024\Bloque2_Ejercicio1\Bloque2_Ejercicio1\obj\Debug\net8.0\ref\Bloque2_Ejercicio1.dll
