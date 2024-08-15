@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TSNP084024__UNIDAD3.Models.Pelicula>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Películas 🎞 </h1>
+
+<p>
+    <a asp-action="Create">Agregar película</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sinopsis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duracion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clasificacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sinopsis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duracion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Clasificacion)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdPelicula">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdPelicula">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPelicula">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
